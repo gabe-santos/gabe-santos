@@ -1,6 +1,8 @@
 ### Yo! I'm Gabe. ✌🏽
- - I'm a Frontend Developer who enjoys building beautiful, practical web applications.
- - Have a fun/wacky/useless app idea? I'm your guy.
+ - I'm a Frontend Developer who enjoys building beautiful, practical web applications. 💪🏽
+ - I'm currently learning Next.js 14 App router, server actions, server components and all that jazz. 😵‍💫
+ - I make really good lattes. (I was a barista for 3 years) ☕
+ - Want to collaborate on a fun/wacky/useless app idea? Sign me up! 😄
 
 <!--
 **gabe-santos/gabe-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
