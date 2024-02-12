@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yo! I'm Gabe. ✌🏽
+ - I'm a Frontend Developer who enjoys building beautiful, practical web applications.
+ - Have a fun/wacky/useless app idea? I'm your guy.
 
 <!--
 **gabe-santos/gabe-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
