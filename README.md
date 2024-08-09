@@ -1,8 +1,10 @@
-### Yo! I'm Gabe. ✌🏽
- - I'm a Frontend Developer who enjoys building beautiful, practical web applications. 💪🏽
- - I'm currently learning Next.js 14 App router, server actions, server components and all that jazz. 😵‍💫
+### Hi! I'm Gabe. ✌🏽
+ - I'm a Frontend Developer who loves building beautiful, practical web applications. 😎
+ - I specialize in React and Next.js 🚀
  - I make really good lattes. (I was a barista for 3 years) ☕
- - Want to collaborate on a fun/wacky/useless app idea? Sign me up! 😄
+ - I'm obsessed with typefaces that feature a [double-storey 'g'](https://en.wikipedia.org/wiki/G#Typographic_variants) 😍
+ - **Currently working on:** redesigning my personal site and implementing a blog ⚡️
+ - **Currently reading:** _Crime and Punishment_ by Fyodor Dostoevsky 📖
 
 <!--
 **gabe-santos/gabe-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
